@@ -10,9 +10,7 @@
 
 Para usar Formulário de registro responsivo em HTML e CSS, clique no link abaixo:
 
-```
 [![Abrir com Netlifly]](https://competent-yalow-656e04.netlify.app/)
-```
 
 ## 🤝 Colaborador
 
